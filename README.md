@@ -15,4 +15,4 @@ b) Tabela pomiar- zawiera informacje o wynikach pomiarów ciśnienia.
 
 5. Plik schemat.png- zawiera diagram bazy danych.
 
-Działanie aplikacji można sprawdzić pod linkiem: www.pomiar.000webhostapp.com
+Działanie aplikacji można sprawdzić pod linkiem: https://pomiar.000webhostapp.com
