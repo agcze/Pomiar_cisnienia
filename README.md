@@ -12,3 +12,7 @@ b) Tabela pomiar- zawiera informacje o wynikach pomiarów ciśnienia.
 3. Plik baza.php- skrypt konfiguracji połączenia z bazą danych.
 
 4. Pliki style.css, style2.css- arkusze stylów.
+
+5. Plik schemat.png- zawiera diagram bazy danych.
+
+Działanie aplikacji można sprawdzić pod linkiem: www.pomiar.000webhostapp.com
