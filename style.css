@@ -1,0 +1,39 @@
+body{
+    background-color: #B0C4DE;
+    font-family: Arial;
+}
+
+
+table{
+	 border-collapse: collapse;
+	 margin: auto;
+	 margin-top:30px;
+	 background-color: #AFEEEE;
+	 table-layout: auto;
+}
+
+	
+
+table td {
+	
+	border: solid #000 2px;
+	padding: 5px;
+	text-align: center;
+}
+
+table th {
+	border: solid #000 2px;
+	font-weight: bolt;
+	color: 	#191970;
+	background-color: #90EE90;
+	
+}
+
+
+
+
+
+	
+	
+
+
