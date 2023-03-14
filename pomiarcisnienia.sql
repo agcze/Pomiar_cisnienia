@@ -165,4 +165,3 @@ ALTER TABLE `Pomiar`
 ALTER TABLE `Pomiar`
   ADD CONSTRAINT `Pomiar_ibfk_1` FOREIGN KEY (`PeselPacjenta`) REFERENCES `Pacjent` (`Pesel`);
 COMMIT;
-
